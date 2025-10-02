@@ -23,7 +23,7 @@ Input: Two 16-bit binary numbers (A and B).
 
 <br>
 
-# ** 3. Design Choices:**
+# **3. Design Choices:**
 
   ### **Subtraction Method:**
   
