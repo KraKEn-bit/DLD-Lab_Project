@@ -13,8 +13,12 @@ The 16-bit subtractor calculator is a digital circuit designed to perform subtra
 Input: Two 16-bit binary numbers (A and B).
 	Output: 16-bit result displayed on digital LEDs.<br>
 	Operation: Subtraction (Result = A - B) using 2’s complement method.<br>
+
+Components Used:
+
+	- 16 D flipflops
+
 	
-Components used:
 	– 16 D Flip-Flops (for storing input/output data)
 	– 16 Multiplexers (for selecting input bits)
 	– 4 Adders (4-bit, combined for 16-bit addition)
