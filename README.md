@@ -66,9 +66,9 @@ Controlled by a selection signal to ensure subtraction is performed properly.
  ### **Addition:**
  
 The 4 × 4-bit adders are connected in a ripple-carry configuration:<br>
-	- First adder handles the least significant 4 bits
+  - First adder handles the least significant 4 bits
   - Last adder handles the most significant 4 bits, propagating any carry
-	- Result of addition is the subtraction output.
+  - Result of addition is the subtraction output.
 
 
  Output :
