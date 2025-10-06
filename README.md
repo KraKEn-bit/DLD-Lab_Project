@@ -72,5 +72,5 @@ The 4 × 4-bit adders are connected in a ripple-carry configuration:<br>
 
 
  ## **Output:**
-The 16-bit result is displayed via digital LEDs.Each LED represents one bit, with the most significant bit on the left and least significant on the right.
+The 16-bit result is displayed via digital LEDs.Each LED represents one bit, with the most significant bit on the left and least significant on the right!
 
